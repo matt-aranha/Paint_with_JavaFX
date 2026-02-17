@@ -1,1 +1,1 @@
-# Paint_with_JavaFX
+# A "Paint Like" Program made with JavaFX
