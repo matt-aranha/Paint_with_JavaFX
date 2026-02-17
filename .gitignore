@@ -19,9 +19,10 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 
-# --- VS Code (Se usar) ---
+# --- VS Code ---
 .vscode/
 *.code-workspace
+*.json
 
 # --- Sistema Operacional ---
 .DS_Store
