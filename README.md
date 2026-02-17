@@ -89,15 +89,15 @@ Quando a ferramenta **Seleção** está ativa, você pode interagir com as figur
 ### Passos
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/javafx-paint.git](https://github.com/seu-usuario/javafx-paint.git)
+    git clone https://github.com/matt-aranha/Paint_with_JavaFX
     ```
 2.  Entre na pasta do projeto:
     ```bash
-    cd javafx-paint
+    cd Paint_with_JavaFX
     ```
 3.  Compile e execute via Maven:
     ```bash
-    mvn clean javafx:run
+    mvn clean compile exec:java -Dexec.mainClass="paint.App"
     ```
 
 ---
