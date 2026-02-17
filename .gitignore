@@ -21,8 +21,8 @@ buildNumber.properties
 
 # --- VS Code ---
 .vscode/
-*.code-workspace
-*.json
+launch.json
+settings.json
 
 # --- Sistema Operacional ---
 .DS_Store
